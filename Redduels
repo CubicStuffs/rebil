@@ -1,7 +1,7 @@
 -- ==========================================
 -- INTRO SONG
 -- ==========================================
-local songUrl = "https://files.catbox.moe/2obj4i.mp3"
+local songUrl = "https://files.catbox.moe/q0bdlt.mp3"
 local cacheName = "intro_song.mp3"
 
 task.spawn(function()
